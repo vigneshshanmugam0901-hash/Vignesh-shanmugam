@@ -1,4 +1,4 @@
-# Vignesh-shanmugam# Project Title
+# Project Title
 
 Simple overview of use/purpose.
 
